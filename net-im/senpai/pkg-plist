@@ -1,0 +1,6 @@
+bin/senpai
+share/man/man1/senpai.1.gz
+share/man/man5/senpai.5.gz
+share/applications/senpai.desktop
+share/icons/hicolor/scalable/apps/senpai.svg
+share/icons/hicolor/48x48/apps/senpai.png
